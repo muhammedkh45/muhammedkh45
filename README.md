@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Languages and Tools
 
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C]([https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white](https://camo.githubusercontent.com/f291ab881e7b284e6788559ce452a5aecb833d947503dbc3b33033bb7555e2c5/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667))(https://www.cprogramming.com)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
