@@ -9,10 +9,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning morethan one track to findout my passion
 
   
-  ## Connect with Me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/%20mohamed-khaled-1b837523b)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/muhammedkh45)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/%20mohamed-khaled-1b837523b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=flat&logo=github)](https://github.com/muhammedkh45)
+
 
 ## Languages and Tools:
 
