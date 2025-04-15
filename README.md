@@ -25,16 +25,19 @@ I love connecting with new people, whether it's to share ideas, collaborate on p
 
 ## Languages and Tools I Use
 
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
-![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-[![JavaFX](https://img.shields.io/badge/JavaFX-0083CA?style=flat&logo=java)](https://openjfx.io)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30">
+<a href="https://openjfx.io">
+  <img src="https://img.shields.io/badge/JavaFX-0083CA?style=flat&logo=java" alt="JavaFX" width="30" height="30">
+</a>
+
 
 
 ## Fun & Future Ideas
