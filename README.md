@@ -38,6 +38,14 @@ I love connecting with new people, whether it's to share ideas, collaborate on p
     <img src="https://img.shields.io/badge/JavaFX-0083CA?style=flat&logo=java" alt="JavaFX" width="80" height="30"/>
   </a>
 </p>
+## 📊 GitHub Stats:
+
+![Muhammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedkh45&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkh45&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammedkh45&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammedkh45&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Fun & Future Ideas
 
