@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hey there, I'm Muhammed! 👋<br><br>I'm on an exciting journey of self-discovery and constant learning, exploring various tracks to find what truly sparks my passion in tech and beyond. Whether it's diving into innovative projects or mastering new tech stacks, I'm always up for a challenge.<br><br>## About Me<br><br>- **Personal Growth:** I'm working on the most important project – myself.<br>- **FullStack:** Experimenting with different fields like Node.js and React.js to expand my horizons.<br>- **Problem Solver:** Passionate about tackling challenging problems and creating efficient solutions.<br>- **Tech Enthusiast:** Focused on backend and software development to build robust, scalable systems.
+# Hey there, I'm Muhammed!
+👋<br><br>I'm on an exciting journey of self-discovery and constant learning, exploring various tracks to find what truly sparks my passion in tech and beyond. Whether it's diving into innovative projects or mastering new tech stacks, I'm always up for a challenge.<br><br>## About Me<br><br>- **Personal Growth:** I'm working on the most important project – myself.<br>- **FullStack:** Experimenting with different fields like Node.js and React.js to expand my horizons.<br>- **Problem Solver:** Passionate about tackling challenging problems and creating efficient solutions.<br>- **Tech Enthusiast:** Focused on backend and software development to build robust, scalable systems.
 
 
 ## 🌐 Socials:
